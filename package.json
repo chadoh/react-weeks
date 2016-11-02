@@ -1,0 +1,19 @@
+{
+  "name": "react-weeks",
+  "version": "1.0.0",
+  "description": "A simple React component to display a range of dates in a week-by-week layout. Can be used to build a datepicker or to display an uncluttered calendar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "date",
+    "datepicker",
+    "calendar",
+    "days",
+    "weeks"
+  ],
+  "author": "Chad Ostrowski <hi@chadoh.com>",
+  "license": "ISC"
+}
